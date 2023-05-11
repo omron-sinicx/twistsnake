@@ -3,9 +3,9 @@ twitter: "@omron_sinicx"
 title: "Twist Snake: Plastic table-top cable-driven robotic arm with all motors located at the base link"
 conference: ICRA2023
 resources:
-  paper: https://arxiv.org/abs/1909.13111
+  paper: https://www.researchgate.net/publication/370658923_Twist_Snake_Plastic_table-top_cable-driven_robotic_arm_with_all_motors_located_at_the_base_link
   # code: https://github.com/omron-sinicx/multipolar
-  video: https://www.youtube.com/embed/adUnIj83RtU
+  video: https://www.youtube.com/embed/sjfoP8uSgYY
   # blog: https://medium.com/sinicx/multipolar-multi-source-policy-aggregation-for-transfer-reinforcement-learning-between-diverse-bc42a152b0f5
 description: explore a new challenge in transfer RL, where only a set of source policies collected under unknown diverse dynamics is available for learning a target task efficiently.
 image: https://omron-sinicx.github.io/twistsnake/assets/teaser.jpg
@@ -20,7 +20,7 @@ authors:
     affiliation: [1]
     position: Senior Researcher
     url: https://sites.google.com/view/masashihamaya/home
-contact_ids: [1] #=> 2nd author
+contact_ids: [0] #=> 2nd author
 affiliations:
   - OMRON SINIC X Corporation
 # meta:
